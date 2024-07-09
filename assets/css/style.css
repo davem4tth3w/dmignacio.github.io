@@ -1011,7 +1011,8 @@ width: 100%;
   color: rgb(255, 255, 255);
   border: solid 1px red;
   font-size: 1rem;
-  margin-top: 30px;
+  margin-top: 60px;
+  margin-bottom: 20px;
 }
 
 .downloadcv-btn:hover{
