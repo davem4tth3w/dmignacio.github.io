@@ -569,7 +569,8 @@ main {
   line-height: 1.6;
 }
 
-.about-text p { margin-bottom: 15px; }
+.about-text p { margin-bottom: 15px; 
+text-align: justify;}
 
 
 
@@ -618,7 +619,7 @@ main {
   font-size: var(--fs-4);
   font-weight: var(--fw-3);
   line-height: 1.6;
-  text-align: left;
+  text-align:justify;
 }
 
 
@@ -638,7 +639,8 @@ font-size: 3rem;}
  * education and experience 
  */
 
-.timeline { margin-bottom: 30px; }
+.timeline { margin-bottom: 30px; 
+text-align: justify;}
 
 .timeline .title-wrapper {
   display: flex;
